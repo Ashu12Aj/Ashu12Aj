@@ -1,3 +1,4 @@
+![logo](https://github.com/Ashu12Aj/Ashu12Aj/blob/main/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif)
 <h1 align="center">Hi 👋, I'm Ashutosh kumar</h1>
 <h3 align="center">A passionate Firmware developer from India</h3>
 
